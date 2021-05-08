@@ -19,4 +19,4 @@ for row in table.find_all('tr'):
     list_of_rows.append(list_of_cells)
 
 with open('./data.json', 'w') as outfile:
-    json.dump(list_of_rows, outfile)
+    json.dump(list_of_rows, outfile, sort_keys=True, indent=4)

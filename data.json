@@ -1,1 +1,77 @@
-[["Ontario", "36"], ["British Columbia", "39"], ["Quebec", "4"], ["Alberta", "14"], ["Total cases:", "93"]]
+[
+    [
+        "British Columbia",
+        "271",
+        "0"
+    ],
+    [
+        "Alberta",
+        "146",
+        "0"
+    ],
+    [
+        "Saskatchewan",
+        "8",
+        "12"
+    ],
+    [
+        "Manitoba",
+        "17",
+        "0"
+    ],
+    [
+        "Ontario",
+        "258",
+        "0"
+    ],
+    [
+        "Quebec",
+        "121",
+        "0"
+    ],
+    [
+        "Newfoundland and Labrador",
+        "1",
+        "2"
+    ],
+    [
+        "New Brunswick",
+        "7",
+        "4"
+    ],
+    [
+        "Nova Scotia",
+        "5",
+        "9"
+    ],
+    [
+        "Prince Edward Island",
+        "2",
+        "0"
+    ],
+    [
+        "Yukon",
+        "0",
+        "0"
+    ],
+    [
+        "Northwest Territories",
+        "0",
+        "0"
+    ],
+    [
+        "Nunavut",
+        "0",
+        "0"
+    ],
+    [
+        "Repatriated travellers",
+        "10",
+        "0"
+    ],
+    [
+        "Total cases",
+        "846",
+        "27"
+    ]
+]
